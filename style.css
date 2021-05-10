@@ -1,0 +1,34 @@
+body{
+    background-color: turquoise;
+    text-align: center;
+}
+
+.campuslife_mainDiv{
+    border: 1px solid teal;
+   padding-left: 0px;
+    padding-right: 0px;
+    float: none; 
+}
+.campuslife_mainDiv img{
+ width: 100%;      
+}
+.campuslife_mainDiv hr{
+ width: 250px;
+}
+#aid{
+    padding-bottom: 10;
+}
+.movie_head{
+font-size: 20px;
+padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+    width: 100%;
+    display: inline-block;
+}
+.movie_head i{
+    float: right;
+}
+#MyNavbar{
+    position: fixed;
+}
